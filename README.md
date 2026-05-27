@@ -46,6 +46,9 @@ https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 
 # Demo Screenshot
 
+Mind map generated from the following YouTube video:
+https://www.youtube.com/watch?v=o8IEiCyentM
+
 ![Demo](demo.png)
 
 ---
