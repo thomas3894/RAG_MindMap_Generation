@@ -44,6 +44,12 @@ https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 
 ---
 
+# Demo Screenshot
+
+![Demo](demo.png)
+
+---
+
 # Features
 
 - PDF document parsing
