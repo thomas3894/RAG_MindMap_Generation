@@ -13,6 +13,29 @@ My main contributions focus on backend architecture, multimedia processing pipel
 
 https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 
+## Table of Contents
+
+- [0:00 - 0:30] Introduction  
+  This application helps users efficiently learn content through automatically generated mind maps.
+
+- [0:30 - 0:52] Features  
+  Multimedia-based generation with a YouTube video example.
+
+- [0:52 - 1:23] RAG System Overview  
+  Explanation of the Retrieval Augmented Generation pipeline.
+
+- [1:23 - 1:33] Additional Features  
+  Web-based access and editable mind map nodes.
+
+- [1:33 - 1:45] Core Features  
+  YouTube timestamp jump functionality and annotations for each node.
+
+- [1:45 - 2:22] Comparison with Existing Mind Map Tools  
+  - Coggle: No automatic generation functionality  
+  - GitMind: No annotation or timestamp jump support
+
+- [2:22 - 3:15] System Demonstration
+
 ---
 
 # Poster
@@ -39,13 +62,13 @@ https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 # System Workflow
 
 ```text
-File Upload to the System(PDF, .mp3, .jpg, YouTube URL)
+File Upload to the System (PDF, MP3, JPG, YouTube URL)
 ↓
-Text Extraction(OCR, Whisper, ...)
+Text Extraction (OCR, Whisper, etc.)
 ↓
-Text Preprocessing(Chunking, Embedding...)
+Text Preprocessing (Chunking, Embedding, etc.)
 ↓
-Mind Map Content Generation(RAG)
+Mind Map Content Generation (RAG)
 ↓
 Web Visualization
 ```
