@@ -49,6 +49,15 @@ https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 Mind map generated from the following YouTube video:
 https://www.youtube.com/watch?v=o8IEiCyentM
 
+Video Title:
+“How to use google sheets"
+
+Content of the Mind Map:
+
+Sharing copied link--                                                       -- Editing
+                                    How to use google sheet
+Log in requirement--                                                        -- Theme setting
+
 ![Demo](demo.png)
 
 ---
