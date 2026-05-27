@@ -39,17 +39,15 @@ https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 # System Workflow
 
 ```text
-PDF / MP3 / Image / YouTube URL
-                ↓
-        Content Extraction
-                ↓
-     OCR / Whisper Processing
-                ↓
-       RAG-based Generation
-                ↓
-        Markdown Generation
-                ↓
-       MindMap Visualization
+File Upload to the System(PDF, .mp3, .jpg, YouTube URL)
+↓
+Text Extraction(OCR, Whisper, ...)
+↓
+Text Preprocessing(Chunking, Embedding...)
+↓
+Mind Map Content Generation(RAG)
+↓
+Web Visualization
 ```
 
 ---
