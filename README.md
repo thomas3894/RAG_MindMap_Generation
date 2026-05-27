@@ -54,9 +54,15 @@ Video Title:
 
 Content of the Mind Map:
 
-Sharing copied link--                                                       -- Editing
-                                    How to use google sheet
-Log in requirement--                                                        -- Theme setting
+[Upper Left Topic] Sharing copied link
+
+[Upper Right Topic] Editing
+
+[Central Topic] How to use google sheet
+
+[Lower Left Topic] Log in requirement
+
+[Lower Right Topic] Theme setting
 
 ![Demo](demo.png)
 
