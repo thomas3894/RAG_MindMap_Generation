@@ -15,6 +15,12 @@ https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 
 ---
 
+# Poster
+
+(Poster.JPG)
+
+---
+
 # Features
 
 - PDF document parsing
@@ -93,3 +99,4 @@ PDF / MP3 / Image / YouTube URL
 - Firebase credentials are excluded from the repository.
 - API keys and sensitive information are managed through environment variables.
 - Frontend visualization is adapted from an open-source Vue3 mind map project.
+- Conducted in 2023 finished in 2024
