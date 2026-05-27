@@ -120,4 +120,4 @@ Web Visualization
 - Firebase credentials are excluded from the repository.
 - API keys and sensitive information are managed through environment variables.
 - Frontend visualization is adapted from an open-source Vue3 mind map project.
-- Conducted in 2023 finished in 2024
+- This project was initiated in 2023 and completed in 2024.
