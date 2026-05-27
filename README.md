@@ -40,7 +40,7 @@ https://www.canva.com/design/DAGWnvrYu4A/OeNx8q4rlMauG9oRV4unHw/watch
 
 # Poster
 
-![Poster](Poster.JPG)
+![Poster](Poster.png)
 
 ---
 
