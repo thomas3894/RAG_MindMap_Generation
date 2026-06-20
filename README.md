@@ -7,8 +7,8 @@ https://github.com/huangyuanyin/hyy-vue3-mindMap
 
 My main contributions focus on backend architecture, multimedia processing pipelines, and RAG-based content generation.
 
-app.py - transfer to Markdown format
-oncClickV9.py - generate function
+- app.py - transfer to Markdown format
+- oncClickV9.py - generate function
 
 ---
 
